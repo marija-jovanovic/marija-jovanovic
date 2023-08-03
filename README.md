@@ -1,4 +1,4 @@
-[![MasterHead](https://rmjornal.b-cdn.net/wp-content/uploads/2021/08/tux_banner.png)]
+![MasterHead](https://rmjornal.b-cdn.net/wp-content/uploads/2021/08/tux_banner.png)
 <h1 align="center">Hello 👋, I am Marija Jovanović</h1>
 <h3 align="center">A Computer Engineering student passionate about programming, cybersecurity and Open Source technology.</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
