@@ -9,8 +9,6 @@
 
 - I translated the SuperTuxKart open-source game from my childhood into Macedonian, hoping that this would be of great help to people who speak Macedonian and want to try out the game without having to face language barrier problems.
 
-- 📫 You can find me on LinkedIn [https://mk.linkedin.com/in/marija-jovanovi%C4%87-68781424a](https://mk.linkedin.com/in/marija-jovanovi%C4%87-68781424a)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marija-jovanović" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marija-jovanović" height="30" width="40" /></a>
