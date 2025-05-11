@@ -1,9 +1,11 @@
 ![MasterHead](https://wallpapercave.com/wp/wp9501512.jpg)
 <h1 align="center">Hello 👋, I am Marija Jovanović</h1>
-<h3 align="center">A Computer Engineering student passionate about programming, cybersecurity, computer networks and Open Source technology.</h3>
+<h3 align="center">A M.Sc. Cybersecurity student at Saarland University, passionate about programming, cybersecurity, computer networks and Open Source technology.</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- I am pursuing my Bachelor of Engineering - BE degree in Computer Technologies and Engineering at the Faculty of Electrical Engineering and Information Technologies - Skopje [https://feit.ukim.edu.mk/en/]
+- I am pursing my Master studies in Cybersecurity at the Saarland University. [https://cysec.uni-saarland.de/master/cybersecurity/]
+  
+- Previously obtained a Bachelor of Engineering - BE degree in Computer Technologies and Engineering at the Faculty of Electrical Engineering and Information Technologies - Skopje [https://feit.ukim.edu.mk/en/]
 
 - 📝 I run my own Java programming blog where I mostly solve LeetCode interview questions and provide the solutions in detail. [https://mjcodingjourney.wordpress.com/](https://mjcodingjourney.wordpress.com/)
 
